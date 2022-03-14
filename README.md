@@ -1,16 +1,15 @@
-# meals
+# Meals - Cardápio Online
 
-A new Flutter project.
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/99498850/158165751-1e06f28e-ad02-48ac-a299-53238d57d63b.gif" width="200" height="400"/>
+</p>
 
-## Getting Started
+Meals, é um app voltado para o mundo da culinária, este foi um projeto desenvolvido no curso da cod3r - Flutter do básico ao avançado, onde aprendi novas habilidades e padrões de desenvolvimento. Neste projeto foi usado os seguintes recursos:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- StatefulWidget
+- Gerenciamento de estado setState
+- Componentização de Widgets
+- Encapsulamento
+- Conditional Rendering
+-  Filter Functions
+-  Assets Files
